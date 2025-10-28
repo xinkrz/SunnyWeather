@@ -7,7 +7,7 @@
 
     <style name="Theme.SunnyWeather" parent="Base.Theme.SunnyWeather" />
 
-    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
 
     </style>
 
